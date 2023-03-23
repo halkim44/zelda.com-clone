@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="portal-zelda-video-mobile" transform="translate(-522.000000, -15.000000)" fill="#F4EEE4">
+            <g id="close" transform="translate(522.000000, 15.000000)">
+                <path d="M0.45444259,14.3513145 L14.3513145,0.45444259 C14.9572379,-0.151480863 15.939634,-0.151480863 16.5455574,0.45444259 C17.1514809,1.06036604 17.1514809,2.04276207 16.5455574,2.64868552 L2.64868552,16.5455574 C2.04276207,17.1514809 1.06036604,17.1514809 0.45444259,16.5455574 C-0.151480863,15.939634 -0.151480863,14.9572379 0.45444259,14.3513145 Z" id="Rectangle"></path>
+                <path d="M0.45444259,14.3513145 L14.3513145,0.45444259 C14.9572379,-0.151480863 15.939634,-0.151480863 16.5455574,0.45444259 C17.1514809,1.06036604 17.1514809,2.04276207 16.5455574,2.64868552 L2.64868552,16.5455574 C2.04276207,17.1514809 1.06036604,17.1514809 0.45444259,16.5455574 C-0.151480863,15.939634 -0.151480863,14.9572379 0.45444259,14.3513145 Z" id="Rectangle" transform="translate(8.500000, 8.500000) scale(-1, 1) translate(-8.500000, -8.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
