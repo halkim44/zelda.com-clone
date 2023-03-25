@@ -5,6 +5,6 @@ a clone website of zelda.com
 ## Stacks
 
 - React
-- Sass
+- Tailwind
 - Vite
 - canvas
